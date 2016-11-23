@@ -1,0 +1,17 @@
+/Users/dovahkiin/Documents/UnityProject/Arkanoid/Temp/bin/Debug/UnityEngine.dll
+/Users/dovahkiin/Documents/UnityProject/Arkanoid/Temp/bin/Debug/UnityEditor.dll
+/Users/dovahkiin/Documents/UnityProject/Arkanoid/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/dovahkiin/Documents/UnityProject/Arkanoid/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/dovahkiin/Documents/UnityProject/Arkanoid/Temp/bin/Debug/Mono.Cecil.dll
+/Users/dovahkiin/Documents/UnityProject/Arkanoid/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/dovahkiin/Documents/UnityProject/Arkanoid/Temp/bin/Debug/Unity.DataContract.dll
+/Users/dovahkiin/Documents/UnityProject/Arkanoid/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/dovahkiin/Documents/UnityProject/Arkanoid/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/dovahkiin/Documents/UnityProject/Arkanoid/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/dovahkiin/Documents/UnityProject/Arkanoid/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/dovahkiin/Documents/UnityProject/Arkanoid/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/dovahkiin/Documents/UnityProject/Arkanoid/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/dovahkiin/Documents/UnityProject/Arkanoid/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/dovahkiin/Documents/UnityProject/Arkanoid/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/dovahkiin/Documents/UnityProject/Arkanoid/obj/Debug/Assembly-CSharp.dll
+/Users/dovahkiin/Documents/UnityProject/Arkanoid/obj/Debug/Assembly-CSharp.dll.mdb
