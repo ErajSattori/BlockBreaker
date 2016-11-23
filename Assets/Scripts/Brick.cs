@@ -34,6 +34,7 @@ public class Brick : MonoBehaviour {
 		AudioSource.PlayClipAtPoint (crack, transform.position);
 		if (isBreakable) {
 			HandleHits();
+			Console.WriteLine("Made By Eraj Sattori");
 		}
 	}
 
